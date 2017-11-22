@@ -1,5 +1,5 @@
 # JavaScript "Drum Kit"
-When keys are pressed on the keyboard the associated sound is played and a the corresponding image for the pressed key will animate.
+When keys are pressed on the keyboard the associated sound is played and a the corresponding image for the pressed key will animate using CSS transform and transition.
 * Developed: 11/22/17—[TBD]
 
 ## License
