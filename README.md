@@ -1,11 +1,10 @@
 # JavaScript "Drum Kit"
-When keys are pressed on the keyboard the associated sound is played and a the corresponding key image will animate.
- Developed: [FROM]—[TO]
- Deployed: [Name](URL)
+When keys are pressed on the keyboard the associated sound is played and a the corresponding image for the pressed key will animate.
+Developed: [FROM]—[TO]
 
 ## License
 
-This project is licensed and protected—see the [LICENSE](URL) file for details.
+This project is licensed and protected—see the [LICENSE](https://github.com/BluePawDev/drum-kit/blob/master/LICENSE) file for details.
 
 ## Author(s)
 
