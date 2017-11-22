@@ -15,9 +15,9 @@ This project is licensed and protected—see the [LICENSE](URL) file for details
 
 ### Core
 
-* [JavaScript](https://www.w3.org/Style/CSS/):
-* [HTML5](https://github.com/whatwg/html):
-* [CSS3](https://www.w3.org/Style/CSS/):
+* [JavaScript](https://www.w3.org/Style/CSS/)
+* [HTML5](https://github.com/whatwg/html)
+* [CSS3](https://www.w3.org/Style/CSS/)
 
 ### Logic, Client-side
 
